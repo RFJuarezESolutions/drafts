@@ -8,3 +8,5 @@ Prueba de certificados.
 Prueba de certificados 2.
 
 Prueba de certificados 3.
+
+Prueba de commit auto firmado.
